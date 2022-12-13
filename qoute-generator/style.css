@@ -1,0 +1,67 @@
+/* CSS RESET - */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+    background-color: black;
+}
+
+h1{
+    font-size: 50px;
+    color: #F861AA;
+    margin-top: 480px;
+    padding-bottom: 15px;
+     margin-left: 754px ;
+     font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+     font-family: 'Times New Roman', Times, serif;
+
+    font: inherit;
+    background-color: white;
+     margin-left: 700px ;
+     margin-top: 10px;
+     height: 50px;
+     font-size: 25px;
+     width: 30%;
+}
+
+div{
+    background-color: #ffa501;
+background-image: linear-gradient(160deg, #ffa501 0%, #810080 100%);
+
+    width: 30%;
+    height: 25%;
+    margin-left: 700px ;
+    
+}
+
+
+p{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #000000;
+    align-items: center;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+
+h6{
+    color: rgb(3, 0, 0);
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: 20px;
+     font-family: 'Times New Roman', Times, serif;
+}
